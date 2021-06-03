@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Demo_04_Persistence_SharedPreferences</string>
+    <string name="title_login">Login</string>
+    <string name="label_username">Username</string>
+    <string name="hint_username">Zaza</string>
+    <string name="label_password">Password</string>
+    <string name="hint_password">••••••••</string>
+    <string name="label_checkbox_remember_me">Remember me</string>
+    <string name="btn_login">Login</string>
+    <string name="title_main">Main</string>
+</resources>
